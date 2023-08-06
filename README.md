@@ -1,4 +1,6 @@
-<h2 align="left">Hello World👋! I am SC</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HFOXH.HFOXH" />
+
+<h1 align="center">Hello World👋! I am SC</h1>
 
 ###
 
