@@ -96,6 +96,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HFOXH/HFOXH/output/snake.svg" alt="Snake animation" />
 
 ###
+![snake gif](https://github.com/HFOXH/HFOXH/blob/output/github-contribution-grid-snake.gif)
