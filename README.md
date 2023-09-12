@@ -17,7 +17,7 @@
 </div>
 
 ###
-
+<h2 align="center"> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -75,7 +75,7 @@
 <img align="right" height="400" src="https://santic.netlify.app/assets/img/about.png"  />
 
 ###
-
+<h2 align="center"> Contact me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/santiago-cardenas-sc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
