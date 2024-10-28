@@ -89,7 +89,7 @@
   <a href="https://www.paypal.com/paypalme/santiagocardenas789" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=573143813873&text=Hola!" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=573132904901&text=Hola!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
