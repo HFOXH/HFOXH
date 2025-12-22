@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am a software developer with over 3 years of experience. I am passionate about programming, constantly learning, and delivering high-quality work. Outside of work, I enjoy playing video games, playing basketball, and reading.</p>
+<p align="left">I am a software developer with over 4 years of experience. I am passionate about programming, constantly learning, and delivering high-quality work. Outside of work, I enjoy playing video games, playing basketball, and reading.</p>
 
 ###
 
