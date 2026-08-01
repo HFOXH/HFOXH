@@ -50,7 +50,7 @@ Here are some of the projects I'm most proud of:
 | 🚀 **My Portfolio** | My personal developer portfolio showcasing skills and work. | Next JS | [Here](https://santic.netlify.app/)
 | 📱 **Rescuepets** | Cross-platform app built to facilitate adoption. | Vue 2, Mongo DB | [Here](https://rescuepets.netlify.app/)
 | 💻 **BigDevSoon Challenges** | Collection of solutions to BigDevSoon challenges. | HTML, CSS & JS | [Here](https://github.com/HFOXH/BigDevSoon-frontend-challenges)
-
+| 📄 **Resume Generator** | Generate your own resume with the harvard format. | Next JS | [Here](https://resume-generator-sc.vercel.app/)
 </div>
 
 📌 *Want me to link these directly to repos? Send me the names and I’ll plug them in perfectly.*
