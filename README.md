@@ -30,9 +30,8 @@ Outside of coding, you’ll find me playing video games 🎮, basketball 🏀, o
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HFOXH&hide_title=true&hide_rank=true&show_icons=true&theme=algolia" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HFOXH&layout=compact&langs_count=6&theme=algolia" height="150" />
-  <img src="https://streak-stats.demolab.com?user=HFOXH&theme=algolia" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hfoxh&langs_count=5&theme=chartreuse-dark" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hfoxh&theme=chartreuse-dark&show_icons=true" height="300" />
 </div>
 
 ---
